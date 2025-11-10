@@ -20,3 +20,4 @@ A C# framework to build, visualize and execute event-driven workflow
 // keep defaults in sync with the manifest
 // drop an unused branch
 // handle the edge case from the last release
+// drop an unused branch
